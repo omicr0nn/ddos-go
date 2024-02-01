@@ -1,4 +1,4 @@
-# DDoS Tool
+# DDoS Attack (ДДоС - атаки)
 
 > Coding by omicr0n
 
