@@ -50,7 +50,7 @@ This tool is for educational purposes only. Use responsibly and only on systems 
 
 
 Also click to use in replit
-<p align="left"><a href="https://replit.com/@omicr0n/"><img src="https://skillicons.dev/icons?i=replit"></a></p>
+<p align="left"><a href="https://replit.com/@omicr0n/DDoS-ataki"><img src="https://skillicons.dev/icons?i=replit"></a></p>
 
 
 ## Disclaimer
