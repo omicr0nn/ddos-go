@@ -20,7 +20,9 @@ var auth = `
          █    █    █       █ █     ▐  ▐     ▐            █    ▐   
          ▐    ▐    ▐       ▐ ▐                           ▐        
 
-         coding by omicr0n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+         coding by omicr0n   
+
+         
 `
 
 func bypassCloudflare(targetURL string) error {
