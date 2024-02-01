@@ -93,6 +93,7 @@ func clearScreen() {
 func main() {
 	for {
 		clearScreen()
+		fmt.Println(auth)
 		fmt.Print("\033[32mEnter the target address: \x1b[0m")
 		var targetURL string
 		fmt.Scanln(&targetURL)
